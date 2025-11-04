@@ -1,10 +1,7 @@
-# Intrusion-Detection-System
-Implementation of a Neural Network from scratch in NumPy to detect network intrusions using the UNSW-NB15 dataset. Demonstrates end-to-end machine learning workflow: preprocessing, model training, and evaluation.
-
 # Neural Network for Network Intrusion Detection (UNSW-NB15 Dataset)
 
 This project implements a **Multi-Layer Perceptron (MLP)** from scratch using **NumPy** to classify network traffic as normal or attack based on the **UNSW-NB15** dataset.  
-It demonstrates core machine learning concepts — data preprocessing, feature engineering, model building, training, and performance evaluation — without relying on deep learning frameworks like TensorFlow or PyTorch.
+It demonstrates core machine learning concepts - data preprocessing, feature engineering, model building, training, and performance evaluation, without relying on deep learning frameworks like TensorFlow or PyTorch.
 
 ---
 
